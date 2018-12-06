@@ -3,3 +3,5 @@
 set -e
 
 sleep "$*"
+
+echo "something happening"
