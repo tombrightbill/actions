@@ -1,4 +1,4 @@
-FROM busybox:latest
+FROM alpine:latest
 
 LABEL "com.github.actions.name"="Sleep"
 LABEL "com.github.actions.description"="Stall execution for N seconds"
