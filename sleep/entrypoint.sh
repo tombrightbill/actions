@@ -8,4 +8,6 @@ echo "something happening"
 
 echo "$ENV_VAR"
 
+pwd
+
 curl -kvso /dev/null "https://www.cloudflare.com"
