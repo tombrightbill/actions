@@ -11,3 +11,5 @@ echo "$ENV_VAR"
 pwd
 
 curl -kvso /dev/null "https://www.cloudflare.com"
+
+cat $SCRIPT
