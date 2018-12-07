@@ -1,4 +1,4 @@
-FROM busybox:latest
+FROM yauritux/busybox-curl:latest
 
 LABEL "maintainer"="maddox <jon@jonmaddox.com>"
 LABEL "repository"="https://github.com/maddox/actions"
